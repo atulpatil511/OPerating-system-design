@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #define ITERATION 10000
 // I am adding a comment to my program now
+// This is the second comment
 int do_nothing()
 {
 
